@@ -4,6 +4,10 @@
 	"publisher": "oguzhan-keles",
 	"description": "Preview i18n translation values on hover for t('key.path') without opening locale files.",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/oguzhankelees/i18n-hover"
+	},
 	"engines": {
 		"vscode": "^1.75.0"
 	},
