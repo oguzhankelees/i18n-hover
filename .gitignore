@@ -1,0 +1,15 @@
+node_modules
+
+out
+
+.vscode-test
+
+*.vsix
+
+*.vsixmanifest
+
+.DS_Store
+
+*.log
+
+*.tsbuildinfo
