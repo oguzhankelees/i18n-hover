@@ -1,6 +1,6 @@
 {
-	"name": "i18n-hover",
-	"displayName": "i18n Hover",
+	"name": "oguzhankeles.i18n-localization-preview",
+	"displayName": "i18n Localization Preview",
 	"publisher": "oguzhankeles",
 	"description": "Preview i18n translation values on hover for t('key.path') without opening locale files.",
 	"version": "0.0.1",
